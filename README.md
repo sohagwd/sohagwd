@@ -1,12 +1,12 @@
 <h2 align="center">Hi 👋, I'm Md.Sohag</h2>
 <h3 align="center">A passionate Professional Full-Stack Web developer & Android Mobile Application developer from Bangladesh</h3>
+<p align="left"> <a href="https://twitter.com/sohagwd" target="blank"><img src="https://img.shields.io/twitter/follow/sohagwd?logo=twitter&style=for-the-badge" alt="sohagwd" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 <img align="left" width="423" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-eFie__XLgM3jxwDv7FLK7NhlEXIkyX1WH9yA0Vi1Wgffn3zhB4G3G1rWSZeCWMxU6dSi5hy6jP3Lt5MfWZ8XDEAgLBv4VLw8mfAQ-5_sbJG-ybg5v0mEHDlMjReKLsyxjpBXdclpMBjD_ABgf-5OrlXhORVNs4Dx2Bavvf8zrXqCqTJixq-RExQHChvT/s403/ezgif.com-crop.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img align="right" width="423" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtxm721zziPDMLoNnFQ3aDu4mKNZZXAocBSpLuE0Yic-4nufCF7xspv7F-0U7uyI2CdSig_ScX5GXqj-E_4EXnaQYRByaZgd92dAwzLGmR3vAnVjgN9B4T2IGVV2iQ9oQflKUaDGF740uiZMTQ66-Yd9XB_BiBBecDK-FsYCisuTdeYJFQ4RLCwOCPzIUN/s800/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 <p align="center"> <a href="https://github.com/sohagwd?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=sohagwd" alt="sohagwd" /></a> </p>
-<p align="left"> <a href="https://twitter.com/sohagwd" target="blank"><img src="https://img.shields.io/twitter/follow/sohagwd?logo=twitter&style=for-the-badge" alt="sohagwd" /></a> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 <img align="left" width="546"  height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQNQfLxn5UB7-RCEWlbjVg6yr_fqRHE_ELH1qioutO7aUzC9ZpXJ9idkkrXB-NK-YmMLjWwM0uYlmO7_fU13O3tluOfcQURL2MI5ietd6uWI9y7B5N5tbDJQlPNQftR6XRtxm3mWREAgHtfg6iLkoJkwBG1vCC1fhnegsILlIXPG9ROtqFgDR3BthGl8K/s750/full-stack-development.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img align="right" width="300" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVSzojUNSrC97k1otmWJwe4I2Q1mrjoB36jJ8VDgER_X8kFHvJXyZ_dCvsy3zlKtpwHwp4y5wrWcaU1IOzSIv7yJrImn_kxJMf1RdU-CJxAWy8gBmpqFv9x1GcUsTo7M7dhCve-F2pjKaDw4NW-CHg_nonMGj_dyCm0zWBFFlQiycHt38p3J_1BtmP5We/s640/code.gif" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p width="1000" height="30"></p>
