@@ -1,4 +1,4 @@
-[[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md.Sohag</h1>
 <h3 align="center">A passionate Professional Full-Stack Web & Android Mobile Application developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://ibb.co/XJq2qHH">
