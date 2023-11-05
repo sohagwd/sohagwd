@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
+
 <h2 align="center">Hi 👋, I'm Md.Sohag</h2>
 <h3 align="center">A passionate Professional Full-Stack Web developer & Android Mobile Application developer from Bangladesh</h3>
 <img align="left" width="423" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-eFie__XLgM3jxwDv7FLK7NhlEXIkyX1WH9yA0Vi1Wgffn3zhB4G3G1rWSZeCWMxU6dSi5hy6jP3Lt5MfWZ8XDEAgLBv4VLw8mfAQ-5_sbJG-ybg5v0mEHDlMjReKLsyxjpBXdclpMBjD_ABgf-5OrlXhORVNs4Dx2Bavvf8zrXqCqTJixq-RExQHChvT/s403/ezgif.com-crop.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
