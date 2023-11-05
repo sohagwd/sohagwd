@@ -1,7 +1,7 @@
 <img width="1200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRAuapWQtmcYOwzD7L2-fS6QcLoh1q0l1M7K-Sw9p8CIOi83hqcgKO8alCQ7_onhAs5eGaDVkQfJU9IbqLsvlTJRQybbVG13Sg9YAOlOg4Feh9WdB1rJoxhdg8n65U8bV5O_oAB3xpHizm7qnkvC3WgrMYY0ABgbk5AgTLLfLb3gVuUHRu1sgNgox4qoeD/s750/full-stack-development.gif" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Md.Sohag</h1>
 <h3 align="center">A passionate Professional Full-Stack Web & Android Mobile Application developer from Bangladesh</h3>
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="center" alt="Coding" src="https://sohagwd.blogspot.com/2023/11/blog-post_34.html"style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 
