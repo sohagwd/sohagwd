@@ -1,8 +1,8 @@
 <img width="1200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRAuapWQtmcYOwzD7L2-fS6QcLoh1q0l1M7K-Sw9p8CIOi83hqcgKO8alCQ7_onhAs5eGaDVkQfJU9IbqLsvlTJRQybbVG13Sg9YAOlOg4Feh9WdB1rJoxhdg8n65U8bV5O_oAB3xpHizm7qnkvC3WgrMYY0ABgbk5AgTLLfLb3gVuUHRu1sgNgox4qoeD/s750/full-stack-development.gif" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Md.Sohag</h1>
 <h3 align="center">A passionate Professional Full-Stack Web & Android Mobile Application developer from Bangladesh</h3>
-<img align="center" alt="Coding" src="[https://sohagwd.blogspot.com/2023/11/blog-post_34.html](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVSzojUNSrC97k1otmWJwe4I2Q1mrjoB36jJ8VDgER_X8kFHvJXyZ_dCvsy3zlKtpwHwp4y5wrWcaU1IOzSIv7yJrImn_kxJMf1RdU-CJxAWy8gBmpqFv9x1GcUsTo7M7dhCve-F2pjKaDw4NW-CHg_nonMGj_dyCm0zWBFFlQiycHt38p3J_1BtmP5We/s640/code.gif)"style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVSzojUNSrC97k1otmWJwe4I2Q1mrjoB36jJ8VDgER_X8kFHvJXyZ_dCvsy3zlKtpwHwp4y5wrWcaU1IOzSIv7yJrImn_kxJMf1RdU-CJxAWy8gBmpqFv9x1GcUsTo7M7dhCve-F2pjKaDw4NW-CHg_nonMGj_dyCm0zWBFFlQiycHt38p3J_1BtmP5We/s640/code.gif" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohagwd" alt="sohagwd" /></a> </p>
