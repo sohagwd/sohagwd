@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohagwd" alt="sohagwd" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sohagwd" target="blank"><img src="https://img.shields.io/twitter/follow/@sohagwd?logo=twitter&style=for-the-badge" alt="@sohagwd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sohagwd" target="blank"><img src="https://img.shields.io/twitter/follow/sohagwd?logo=twitter&style=for-the-badge" alt="sohagwd" /></a> </p>
 
 - 🌱 I’m currently learning **Android Mobile Application development Level-4**
 
