@@ -12,7 +12,7 @@
 - 💬 Ask me about **Recponsive Web Design, Web Developmet,Android Mobile Application development development Level-4**
 
 - 📫 How to reach me **sohag.wd.bd@gmail.com**
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
+<p align="right" width="300"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 <p align="left"> <a href="https://twitter.com/sohagwd" target="blank"><img src="https://img.shields.io/twitter/follow/sohagwd?logo=twitter&style=for-the-badge" alt="sohagwd" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
