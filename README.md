@@ -5,8 +5,8 @@
 
 
 <p align="center"> <a href="https://github.com/sohagwd?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=sohagwd" alt="sohagwd" /></a> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 <p align="left"> <a href="https://twitter.com/sohagwd" target="blank"><img src="https://img.shields.io/twitter/follow/sohagwd?logo=twitter&style=for-the-badge" alt="sohagwd" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sohagwd&label=Profile%20views&color=0e75b6&style=flat" alt="sohagwd" /> </p>
 <img align="left" width="546"  height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQNQfLxn5UB7-RCEWlbjVg6yr_fqRHE_ELH1qioutO7aUzC9ZpXJ9idkkrXB-NK-YmMLjWwM0uYlmO7_fU13O3tluOfcQURL2MI5ietd6uWI9y7B5N5tbDJQlPNQftR6XRtxm3mWREAgHtfg6iLkoJkwBG1vCC1fhnegsILlIXPG9ROtqFgDR3BthGl8K/s750/full-stack-development.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img align="right" width="300" height="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVSzojUNSrC97k1otmWJwe4I2Q1mrjoB36jJ8VDgER_X8kFHvJXyZ_dCvsy3zlKtpwHwp4y5wrWcaU1IOzSIv7yJrImn_kxJMf1RdU-CJxAWy8gBmpqFv9x1GcUsTo7M7dhCve-F2pjKaDw4NW-CHg_nonMGj_dyCm0zWBFFlQiycHt38p3J_1BtmP5We/s640/code.gif" alt="MasterHead" data-canonical-src="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <p width="1000" height="30"></p>
